@@ -1,6 +1,6 @@
 # Task Manager API
 
-Uma API REST simples para gerenciamento de tarefas, criada com .NET 9, Entity Framework e SQLite. Ideal para estudos e como base para aplicações de produtividade.
+Uma API REST para gerenciamento de tarefas, criada com .NET 9, Entity Framework e SQLite.
 
 ---
 
